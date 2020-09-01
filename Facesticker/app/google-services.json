@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469923648013",
+    "firebase_url": "https://facepick-96132.firebaseio.com",
+    "project_id": "facepick-96132",
+    "storage_bucket": "facepick-96132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469923648013:android:786d77f803850717e6fb44",
+        "android_client_info": {
+          "package_name": "com.example.code0829"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469923648013-95lj9fgi4be6imjp0d0sscgria1p7ohe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFUnzfd31yecGjjXPfgQgHokQbd45yvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469923648013-95lj9fgi4be6imjp0d0sscgria1p7ohe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
